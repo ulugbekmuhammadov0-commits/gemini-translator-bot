@@ -1,0 +1,4 @@
+aiogram==3.*
+deep-translator==1.11.*
+google-genai==0.1.*
+python-dotenv
